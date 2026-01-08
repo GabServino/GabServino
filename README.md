@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Gabriel! I'm a Computer Science student who's really into data analytics. I love working with tools like SQL, Excel, and Python. I'm Interested in things related to data analytics and solving real world problem using data
+
 <!--
 **GabServino/GabServino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

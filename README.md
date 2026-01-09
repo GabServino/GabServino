@@ -5,8 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=900&lines=Exploring+Data;Building+Insights;Solving+Real-World+Problems+with+Analytics" />
 </p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ##  Profile Overview
 

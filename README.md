@@ -38,7 +38,7 @@ My goal is to use analytics to help make **better, smarter decisions** in real-w
 
 ##  What I Work On
 
-✔ Clean, standardize, and validate datasets with thousands of records, reducing missing or inconsistent values to ensure analysis-ready data
+✔ Clean, standardize, and validate datasets with thousands of records, reducing missing or inconsistent values to ensure data is ready for analysis
 
 ✔ Write and optimize SQL queries to explore trends, segment data, and answer business-focused questions 
 
@@ -62,7 +62,7 @@ My goal is to use analytics to help make **better, smarter decisions** in real-w
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1DH6lxJzb9cOmvgVXkhRmZv9kz4Q_r5W_/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1nIQdA_8SXS6tr9-MQyXQudZL9EEbI8V_/view?usp=drive_link" download>Download my resume</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>

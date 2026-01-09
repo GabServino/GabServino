@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=900&lines=Exploring+Data;Building+Insights;Solving+Real-World+Problems+with+Analytics" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p
-
 ---
 
 ##  Profile Overview

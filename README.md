@@ -30,7 +30,7 @@ My goal is to use analytics to help make **better, smarter decisions** in real-w
 
 <!-- ===================== SKILLS GRID ===================== -->
 
-## 🛠️ Skills
+##  Skills
 
 | Category | Technologies |
 |--------|-------|

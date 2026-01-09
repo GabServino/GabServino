@@ -38,7 +38,7 @@ My goal is to use analytics to help make **better, smarter decisions** in real-w
 
 ##  What I Work On
 
-✔ Clean, standardize, and validate datasets with 10k–100k+ records, reducing missing or inconsistent values to ensure analysis-ready data
+✔ Clean, standardize, and validate datasets with thousands of records, reducing missing or inconsistent values to ensure analysis-ready data
 
 ✔ Write and optimize SQL queries to explore trends, segment data, and answer business-focused questions 
 

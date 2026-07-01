@@ -14,8 +14,6 @@ Computer Science Graduate • Aspiring Data Analyst
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
----
-
 # 👋 About Me
 
 I'm **Gabriel Serviño**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.

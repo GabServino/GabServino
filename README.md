@@ -40,7 +40,7 @@ I'm currently seeking opportunities as a **Junior Data Analyst**, where I can co
 
 ---
 
-# 📂 Portfolio Projects
+# Portfolio Projects
 ## Financial Performance Dashboard
 
 An executive **Power BI** dashboard that analyzes financial performance across products, customer segments, and regions, providing insights into revenue, profitability, sales trends, and business performance.
@@ -78,7 +78,7 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Advanced SQL optimization
 - Python for data analysis
@@ -87,7 +87,7 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - IBM Data Analyst Professional Certificate
 - Microsoft Data Analysis and Visualization with Power BI
@@ -95,7 +95,7 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 
 ---
 
-# 📄 Resume
+# Resume
 
 Interested in my work?
 
@@ -105,7 +105,7 @@ Interested in my work?
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="left">
 

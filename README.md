@@ -16,7 +16,7 @@ Computer Science Graduate • Aspiring Data Analyst
 
 # 👋 About Me
 
-I'm **Gabriel Serviño**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.
+Hi! I'm **Gabriel Serviño**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.
 
 I have hands-on experience in **data cleaning, SQL analysis, exploratory data analysis (EDA), and dashboard development** through personal data analytics projects and internship experience.
 
@@ -99,7 +99,7 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 
 Interested in my work?
 
-📥 **Download my resume below**
+**Download my resume below**
 
 **[View My Resume](https://drive.google.com/file/d/1UJ0GquogGbJjVsycCkAUwBCqE4UVpXQ7/view?usp=sharing)**
 
@@ -109,9 +109,9 @@ Interested in my work?
 
 <p align="left">
 
-📧 Email: servinogabriel1@gmail.com
+Email: servinogabriel1@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/gabriel-servino
+LinkedIn: https://linkedin.com/in/gabriel-servino
 
 </p>
 

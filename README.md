@@ -52,13 +52,13 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 - Data Cleaning
 - Data Analysis
 - Data Visualization
-- KPI Reporting
 - Workforce Analytics
+- Business Insights
 
-**Tools**
+**Tools**  
 `Power BI` • `Power Query` • `DAX` • `Excel`
 
-➡️ **View Repository**
+🔗 **[View Project](https://github.com/GabServino/workscope-by-gabriel)**
 
 ---
 
@@ -70,14 +70,13 @@ An executive **Power BI** dashboard that analyzes financial performance across p
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Financial Analysis
-- KPI Reporting
+- Data Visualization
 - Business Intelligence
 
-**Tools**
+**Tools**  
 `Power BI` • `Power Query` • `DAX` • `Excel`
 
-➡️ **View Repository**
-
+🔗 **[View Project](https://github.com/GabServino/profitlens-by-gabriel)**
 
 ---
 

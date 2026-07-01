@@ -42,6 +42,45 @@ I'm currently seeking opportunities as a **Junior Data Analyst**, where I can co
 
 ---
 
+# 📂 Portfolio Projects
+
+## Workforce Analytics Dashboard
+
+An interactive **Power BI** dashboard that transforms HR data into actionable workforce insights, helping analyze employee turnover, hiring trends, workforce stability, tenure, and diversity to support data-driven HR decisions.
+
+**Skills Demonstrated**
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- KPI Reporting
+- Workforce Analytics
+
+**Tools**
+`Power BI` • `Power Query` • `DAX` • `Excel`
+
+➡️ **View Repository**
+
+---
+
+## Financial Performance Dashboard
+
+An executive **Power BI** dashboard that analyzes financial performance across products, customer segments, and regions, providing insights into revenue, profitability, sales trends, and business performance.
+
+**Skills Demonstrated**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Financial Analysis
+- KPI Reporting
+- Business Intelligence
+
+**Tools**
+`Power BI` • `Power Query` • `DAX` • `Excel`
+
+➡️ **View Repository**
+
+
+---
+
 # 📚 Currently Learning
 
 - Advanced SQL optimization

@@ -41,6 +41,24 @@ I'm currently seeking opportunities as a **Junior Data Analyst**, where I can co
 ---
 
 # 📂 Portfolio Projects
+## Financial Performance Dashboard
+
+An executive **Power BI** dashboard that analyzes financial performance across products, customer segments, and regions, providing insights into revenue, profitability, sales trends, and business performance.
+
+**Skills Demonstrated**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Financial Analysis
+- Data Visualization
+- Business Intelligence
+
+**Tools**  
+`Power BI` • `Power Query` • `DAX` • `Excel`
+
+🔗 **[View Project](https://github.com/GabServino/profitlens-by-gabriel)**
+
+
+---
 
 ## Workforce Analytics Dashboard
 
@@ -57,24 +75,6 @@ An interactive **Power BI** dashboard that transforms HR data into actionable wo
 `Power BI` • `Power Query` • `DAX` • `Excel`
 
 🔗 **[View Project](https://github.com/GabServino/workscope-by-gabriel)**
-
----
-
-## Financial Performance Dashboard
-
-An executive **Power BI** dashboard that analyzes financial performance across products, customer segments, and regions, providing insights into revenue, profitability, sales trends, and business performance.
-
-**Skills Demonstrated**
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Financial Analysis
-- Data Visualization
-- Business Intelligence
-
-**Tools**  
-`Power BI` • `Power Query` • `DAX` • `Excel`
-
-🔗 **[View Project](https://github.com/GabServino/profitlens-by-gabriel)**
 
 ---
 

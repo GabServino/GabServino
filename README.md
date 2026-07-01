@@ -18,13 +18,13 @@ Computer Science Graduate • Aspiring Data Analyst
 
 # 👋 About Me
 
-I'm **Gabriel Servino**, a **Computer Science graduate** passionate about transforming raw data into meaningful business insights.
+I'm **Gabriel Servino**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.
 
-I have hands-on experience in **data cleaning, SQL analysis, exploratory data analysis (EDA), dashboard development, and KPI reporting** through real-world analytics projects and internship experience.
+I have hands-on experience in **data cleaning, SQL analysis, exploratory data analysis (EDA), and dashboard development** through personal data analytics projects and internship experience.
 
-Using **Excel, SQL, and Power BI**, I enjoy uncovering trends, solving business problems, and creating dashboards that help stakeholders make informed decisions.
+Using **Excel, SQL, and Power BI**, I enjoy uncovering trends, building interactive dashboards, and finding practical solutions to business problems. I'm someone who enjoys learning, embraces new challenges, and is always looking for opportunities to grow as a data analyst.
 
-I'm currently seeking opportunities as a **Junior Data Analyst**, where I can contribute to data-driven decision making while continuously expanding my analytics skills.
+I'm currently seeking opportunities as a **Junior Data Analyst**, where I can contribute to data-driven decision-making while continuing to develop my analytical and technical skills.
 
 ---
 

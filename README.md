@@ -1,74 +1,88 @@
 <!-- ===================== HERO SECTION ===================== -->
+
 <h1 align="center">Gabriel F. Servino</h1>
-<h3 align="center">Computer Science Student • Data Analytics Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Graduate • Aspiring Data Analyst
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=900&lines=Exploring+Data;Building+Insights;Solving+Real-World+Problems+with+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=900&lines=Cleaning+Data;Analyzing+Business+Problems;Building+Power+BI+Dashboards;Turning+Data+Into+Actionable+Insights" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
-##  Profile Overview
-
-I’m **Gabriel**, a **Computer Science student** with a strong focus on **data analytics** and **data-driven problem solving**.
-
-I enjoy working with data end-to-end from cleaning and exploration to visualization and insight generation.  
-My goal is to use analytics to help make **better, smarter decisions** in real-world scenarios.
-
----
-
-<!-- ===================== ALL SKILLS (COMBINED) ===================== -->
-
-<!-- ===================== SKILLS GRID ===================== -->
-
-## 🛠️ Skills
-
-| Category | Technologies |
-|--------|-------|
-| **Languages** | SQL, Python (Pandas, NumPy), R |
-| **Databases & Data Platforms** | MySQL, PostgreSQL, Microsoft SQL Server, Google BigQuery |
-| **Data Visualization** | Tableau, Power BI, Looker, Microsoft Excel |
-| **Analysis Tools** | Microsoft Excel, Google Sheets, Jupyter Notebooks |
-| **Version Control & Workflow** | Git, GitHub |
-
-
-
----
-
-##  What I Work On
-
-✔ Clean, standardize, and validate datasets with thousands of records, reducing missing or inconsistent values to ensure data is ready for analysis
-
-✔ Write and optimize SQL queries to explore trends, segment data, and answer business-focused questions 
-
-✔ Build analytical reports and dashboards that summarize key metrics and support data-driven decisions  
-
-✔ Create clear data visualizations that translate complex results into insights for non-technical audiences  
-
-✔ Apply structured analysis to real-world datasets, turning raw data into actionable findings and recommendations  
-
----
-
-
-
-##  Currently Learning 
-
-- Advanced SQL & query optimization  
-- Data visualization best practices  
-- Practical analytics 
-
----
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1nIQdA_8SXS6tr9-MQyXQudZL9EEbI8V_/view?usp=drive_link" download>Download my resume</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
+---
+
+# 👋 About Me
+
+I'm **Gabriel Servino**, a **Computer Science graduate** passionate about transforming raw data into meaningful business insights.
+
+I have hands-on experience in **data cleaning, SQL analysis, exploratory data analysis (EDA), dashboard development, and KPI reporting** through real-world analytics projects and internship experience.
+
+Using **Excel, SQL, and Power BI**, I enjoy uncovering trends, solving business problems, and creating dashboards that help stakeholders make informed decisions.
+
+I'm currently seeking opportunities as a **Junior Data Analyst**, where I can contribute to data-driven decision making while continuously expanding my analytics skills.
+
+---
+
+# 🛠 Technical Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), KPI Analysis, Trend Analysis, Data Validation |
+| **Programming** | SQL, Python (Pandas, NumPy) |
+| **Visualization** | Power BI, Microsoft Excel |
+| **Power BI** | DAX, Power Query, Data Modeling, Dashboard Development |
+| **Excel** | Pivot Tables, XLOOKUP, INDEX/MATCH, Advanced Formulas, Conditional Formatting |
+| **Databases** | MySQL, PostgreSQL |
+| **Version Control** | Git, GitHub |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL optimization
+- Python for data analysis
+- Business intelligence best practices
+- Data storytelling and dashboard design
+
+---
+
+# 📜 Certifications
+
+- IBM Data Analyst Professional Certificate
+- Microsoft Data Analysis and Visualization with Power BI
+- Google Data Analytics Professional Certificate
+
+---
+
+# 📄 Resume
+
+Interested in my work?
+
+📥 **Download my resume below**
+
+<a href="YOUR_RESUME_LINK_HERE">Resume (PDF)</a>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+📧 Email: servinogabriel1@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/gabriel-servino
+
+</p>
 
 <p align="center">
-   Turning data into insights, one project at a time.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<p align="center">
+Transforming raw data into meaningful insights through analytics, visualization, and business intelligence.
 </p>

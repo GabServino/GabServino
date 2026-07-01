@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Gabriel F. Servino</h1>
+<h1 align="center">Gabriel F. Serviño</h1>
 
 <h3 align="center">
 Computer Science Graduate • Aspiring Data Analyst
@@ -18,7 +18,7 @@ Computer Science Graduate • Aspiring Data Analyst
 
 # 👋 About Me
 
-I'm **Gabriel Servino**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.
+I'm **Gabriel Serviño**, a **Computer Science graduate** with a curious mindset and a passion for solving problems through data. I enjoy exploring datasets, asking questions, and turning raw information into meaningful insights that support better business decisions.
 
 I have hands-on experience in **data cleaning, SQL analysis, exploratory data analysis (EDA), and dashboard development** through personal data analytics projects and internship experience.
 
@@ -103,7 +103,7 @@ Interested in my work?
 
 📥 **Download my resume below**
 
-<a href="YOUR_RESUME_LINK_HERE">Resume (PDF)</a>
+**[Download My Resume](https://drive.google.com/file/d/1UJ0GquogGbJjVsycCkAUwBCqE4UVpXQ7/view?usp=sharing)**
 
 ---
 

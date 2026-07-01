@@ -103,7 +103,7 @@ Interested in my work?
 
 📥 **Download my resume below**
 
-**[Download My Resume](https://drive.google.com/file/d/1UJ0GquogGbJjVsycCkAUwBCqE4UVpXQ7/view?usp=sharing)**
+**[View My Resume](https://drive.google.com/file/d/1UJ0GquogGbJjVsycCkAUwBCqE4UVpXQ7/view?usp=sharing)**
 
 ---
 
